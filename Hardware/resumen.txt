@@ -1,0 +1,5 @@
+Partes internas de la computadora
+
+- Memoria RAM o ROM
+- Procesador
+- Placa de video o sonido
